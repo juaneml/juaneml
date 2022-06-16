@@ -21,7 +21,8 @@ Welcome to my page, I´m software engineer from Granada, 🇪🇸 Spain
 
 
 ### Licenses and certifications
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <i>Follow me:</i><br>
 
