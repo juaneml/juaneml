@@ -24,6 +24,9 @@ Welcome to my page, I´m software engineer from Granada, 🇪🇸 Spain
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
+# [📟 GitHub Stats](#-github-stats-)
+[![juaneml GitHub stats](https://github-readme-stats.vercel.app/api?username=juaneml)](https://github.com/juaneml/github-readme-stats)
+
 <i>Follow me:</i><br>
 
 <a href="https://www.linkedin.com/in/juan-est-mor-l%C3%B3pz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
