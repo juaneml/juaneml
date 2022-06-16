@@ -22,7 +22,7 @@ Welcome to my page, I´m software engineer from Granada, 🇪🇸 Spain
 
 ### Licenses and certifications
 <!--START_SECTION:badges-->
-[![Update badges](https://github.com/juaneml/juaneml/actions/workflows/blank.yml/badge.svg)](https://github.com/juaneml/juaneml/actions/workflows/blank.yml)
+![BADGE](/ccna-introduction-to-networks-1.png)
 <!--END_SECTION:badges-->
 
 # [📟 GitHub Stats](#-github-stats-)
