@@ -22,7 +22,10 @@ Welcome to my page, I´m software engineer from Granada, 🇪🇸 Spain
 
 ### Licenses and certifications
 <!--START_SECTION:badges-->
-![BADGE](/ccna-introduction-to-networks-1.png)
+
+<img src="ccna-introduction-to-networks-1.png" alt="drawing" width="100"/>
+
+https://www.credly.com/badges/9a630c64-e313-43d6-a1b0-6ac36940a120/public_url
 <!--END_SECTION:badges-->
 
 # [📟 GitHub Stats](#-github-stats-)
