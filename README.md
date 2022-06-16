@@ -20,9 +20,8 @@ Welcome to my page, I´m software engineer from Granada, 🇪🇸 Spain
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
 
 
-### Liencias y certificaciones
+### Licenses and certifications
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9a630c64-e313-43d6-a1b0-6ac36940a120" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <i>Follow me:</i><br>
 
