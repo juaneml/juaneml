@@ -35,7 +35,7 @@ Welcome to my page, I´m software engineer from Granada, 🇪🇸 Spain
 # Top languages
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juaneml&card_width=600px&langs_count=10&count_private=true&include_all_commits=true&hide_progress=false&line_height=30&size_weight=0.5&count_weight=0.5&hide=ruby)](https://github.com/juaneml/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juaneml&card_width=600px&langs_count=10&count_private=true&include_all_commits=true&hide_progress=false&line_height=30&size_weight=0.5&count_weight=0.5&hide=ruby&theme=tokyonight)](https://github.com/juaneml/)
 </div>
 
 # Follow me
