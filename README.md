@@ -30,12 +30,12 @@ Welcome to my page, I´m software engineer from Granada, 🇪🇸 Spain
 <!--END_SECTION:badges-->
 
 # [📟 GitHub Stats](#-github-stats-)
-[![juaneml GitHub stats](https://github-readme-stats.vercel.app/api?username=juaneml&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/juaneml/juaneml)
+[![juaneml GitHub stats](https://github-readme-stats.vercel.app/api?username=juaneml&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/juaneml/)
 
 # Top languages
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juaneml&count_private=true&hide_progress=false&size_weight=0.5&count_weight=0.5)](https://github.com/juaneml/juaneml)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juaneml&count_private=true&hide_progress=false&size_weight=0.5&count_weight=0.5)](https://github.com/juaneml/)
 </div>
 
 # Follow me
