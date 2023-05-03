@@ -26,22 +26,25 @@ Welcome to my page, I´m software engineer from Granada, 🇪🇸 Spain
 ### Licenses and certifications
 <!--START_SECTION:badges-->
 
-<img src="ccna-introduction-to-networks-1.png" alt="drawing" width="100"/>
-
-https://www.credly.com/badges/9a630c64-e313-43d6-a1b0-6ac36940a120/public_url
+<a href="https://www.credly.com/badges/9a630c64-e313-43d6-a1b0-6ac36940a120/public_url"> <img src="ccna-introduction-to-networks-1.png" alt="drawing" width="100"/> </a>
 <!--END_SECTION:badges-->
 
 # [📟 GitHub Stats](#-github-stats-)
-[![juaneml GitHub stats](https://github-readme-stats.vercel.app/api?username=juaneml)](https://github.com/juaneml/github-readme-stats)
+[![juaneml GitHub stats](https://github-readme-stats.vercel.app/api?username=juaneml&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/juaneml/juaneml)
 
-<i>Follow me:</i><br>
+# Top languages
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juaneml&count_private=true&hide_progress=false&size_weight=0.5&count_weight=0.5)](https://github.com/juaneml/juaneml)
+</div>
+
+# Follow me
 
 <a href="https://www.linkedin.com/in/juan-est-mor-l%C3%B3pz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/juaneml/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 
-</div>
 
 <!--
 - 🌱 I’m currently learning ...
